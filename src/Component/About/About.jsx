@@ -13,7 +13,7 @@ function About() {
             <div className="d-flex align-items-center mb-4 fw-bold p-3" style={{ backgroundColor: '#f8f9fa' }}>
               <Link to="/" className="text-muted me-2">Home</Link>
               <i className="fa-solid fa-chevron-right me-2"></i>
-              <span className="Textcolor">Abouts</span>
+              <span className="Textcolor">About</span>
             </div>
             <h4 className="mt-4">About Us</h4>
             <section className="mb-5 d-flex flex-column gap-3">
